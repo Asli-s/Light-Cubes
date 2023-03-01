@@ -1,8 +1,6 @@
 # Light-Cubes
 hyper casual game
-# Find-the-emoji
-</br>
-This is a casual game made for android mobile phones in Unity
+
 </br></br>
 
 <p float="left">
