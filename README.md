@@ -10,8 +10,6 @@ hyper casual game
 
 </p>
 
-
-</br>
 video: 
 </br></br>
 
