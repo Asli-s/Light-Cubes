@@ -1,5 +1,5 @@
 # Light-Cubes
-hyper casual game
+Hyper casual game
 
 </br>
 
@@ -15,3 +15,5 @@ video:
 
 <img src="https://user-images.githubusercontent.com/116391646/222243144-010a58d1-1e2b-4ea7-855d-a9e7f2be983b.gif" width="150" height="300"/>
 
+</br></br>
+Unity version 2022.1.2
